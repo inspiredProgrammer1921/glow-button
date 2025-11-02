@@ -3,7 +3,8 @@ The design uses pseudo-elements and keyframe animation to create a continuous, s
 
 
 
-What It Does
+What It Does:
+
 Displays a centered button with a glowing, animated border.
 Uses layered pseudo-elements (::before and ::after) to simulate depth and glow.
 Incorporates a vibrant, looping gradient for a dynamic lighting effect.
